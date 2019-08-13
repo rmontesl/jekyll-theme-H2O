@@ -56,9 +56,9 @@ postPatterns: 'overlappingCircles'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  instagram: '//weibo.com/lovecolcol'
-  behance: '//juejin.im/user/57a6f434165abd006159b4cc'
-  twitter: '//www.instagram.com/steveliaocn'
+  instagram: 'https://www.instagram.com/_raul.ml/'
+  behance: 'https://www.behance.net/rmontesl'
+  twitter: 'https://twitter.com/RMontesL'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
