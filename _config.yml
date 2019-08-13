@@ -44,8 +44,8 @@ comments:
 mathjax: true
 
 # Share
-social-share: false
-social-share-items: ['twitter', 'facebook', 'whatsapp', 'linkedin', 'pinterest']
+social-share: true
+social-share-items: ['twitter', 'facebook']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
@@ -61,7 +61,7 @@ sns:
   twitter: '//www.instagram.com/steveliaocn'
 
 # Tags 设置标签
-recommend-tags: false # whether or not display recommend-tags on the sidebar
+recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
