@@ -25,3 +25,11 @@ Una especie de pecado capital en el ambito municipal, el trabajo realizado duran
 Tener claridad  acerca de las prioridades de las personas. Más allá de las percepciones que podamos tener, una investigación social exhaustiva nos ayuda a entender las preocupaciones sociales y realizar las acciones políticas correctas.
 
 ### Comunicar bien lo que se hace
+El día a día en una campaña nos centra en la gestión y en muchas ocasiones olvidamos dar a conocer lo que hacemos. Hoy en día tenemos infinidad de herramientas que nos permiten comunicar de manera directa lo que se hace. Algo fundamental es tener claro que hacerlo por hacerlo no es suficiente, hay que hacerlo bien para no caer en posturas populistas.
+
+### Fijar el rumbo
+Este está muy relacionado con el punto anterior puesto que si no tenemos claro cual es nuestro destine caeremos en el error de elaborar teorias inciertas basadas más en nuestros deseos y miedos.
+
+### La marca es importante,pero la forma el contenido
+
+  
