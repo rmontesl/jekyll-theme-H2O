@@ -15,4 +15,13 @@ Aunque cada vez suma más profesionales e interesados, no deja de ser un gran de
 
 A continuación destacaremos los aspectos esencials para construir una buena campaña de marketing político:
 
-### Conocer y analizar el entorno
+### Conocer y analizar el entorno 
+Tener claridad acerca del comportamiento electoral de un territorio es la base fundamental a la hora de planificar nuestro trabajo político. Conocer el comportamiento del electorado en función del territorio y la cultura, los comicios, la coyuntura y su estilo de vida son aspectos importantes en el diseño de las estrategias.
+
+### No solo se trabaja en el periodo de campaña
+Una especie de pecado capital en el ambito municipal, el trabajo realizado durante los años de la legislatura ya sea por desconocimiento o por falta de recursos económicos no están orientados a generar relaciones de implicación con la ciudadanía.
+
+### Saber hacer
+Tener claridad  acerca de las prioridades de las personas. Más allá de las percepciones que podamos tener, una investigación social exhaustiva nos ayuda a entender las preocupaciones sociales y realizar las acciones políticas correctas.
+
+### Comunicar bien lo que se hace
